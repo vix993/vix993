@@ -2,7 +2,7 @@
 
 My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am currently a Software Engineering student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/). Generally, I love making things and about a year ago I wrote a 'Hello World' and began my journey as a developer. I like to define myself as a creative person, with a very deep connection to the arts and I am motivated to provide solutions for creators.
 
-I am also an actor, musician, performer and poet, publishing my content under [Vic Birth](www.vicbirth.com) and [Desvious Order](https://desvious-order.vercel.app/).
+I am also an actor, musician, performer and poet, publishing my content under [Vic Birth](https://www.vicbirth.com) and [Desvious Order](https://desvious-order.vercel.app/).
 
 Give me a shout!
 
