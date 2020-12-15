@@ -11,7 +11,7 @@ Give me a shout!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-nascimento-dev/)](https://www.linkedin.com/in/victor-nascimento-dev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vic_birth/)](https://www.instagram.com/vic_birth/)
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vix993&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/vix993?tab=repositories) | [![vic's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vix993&layout=compact&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) |
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vix993&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) | [![vic's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vix993&layout=compact&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) |
 |:-:|:-:|
 
 <!--
