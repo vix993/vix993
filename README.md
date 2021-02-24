@@ -6,9 +6,9 @@ I like to define myself as a creative person, with a very deep connection to the
 
 I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://desvious-order.vercel.app/).
 
-Proficiencies: Typescript, React, Node.js, Next.js, Heroku, Django, Docker
+Proficiencies: Typescript <i class="fab fa-js"></i>, React <i class="fab fa-react"></i>, Node.js <i class="fab fa-node-js"></i>, Next.js, Heroku, Django, Docker <i class="fab fa-docker"></i>
 
-Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust.
+Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust <i class="fab fa-rust"></i>
 
 Give me a shout!
 
