@@ -8,7 +8,7 @@ I am also an actor, musician, performer and poet, publishing my content under [D
 
 Proficiencies: Typescript, React, Node.js, Next.js, Heroku, Django, Docker
 
-Interests: Rust, AWS, Actix, Rust, Football, Basketball, Rust, Music and Rust.
+Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust.
 
 Give me a shout!
 
