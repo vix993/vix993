@@ -1,8 +1,14 @@
 ### Hello Universe!
 
-My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am currently a Software Engineering student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/). Generally, I love making things and about two years ago I wrote a 'Hello World' and began my journey as a developer. I like to define myself as a creative person, with a very deep connection to the arts and I am motivated to provide solutions for creators.
+My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am currently a Software Engineering student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/)
+
+I like to define myself as a creative person, with a very deep connection to the arts and I am motivated to provide solutions for creators.
 
 I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://desvious-order.vercel.app/).
+
+Proficiencies: Typescript, React, Node.js, Next.js, Heroku, Django, Docker
+
+Interests: Rust, AWS, Actix, Rust, Football, Basketball, Rust, Music and Rust.
 
 Give me a shout!
 
