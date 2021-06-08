@@ -1,6 +1,6 @@
 ### Hello Universe!
 
-My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am currently a Software Engineering student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/)
+My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am a Software Engineer, honing my skills as a student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/).
 
 I like to define myself as a creative person, with a very deep connection to the arts and I am motivated to provide solutions for creators.
 
@@ -8,7 +8,7 @@ I am also an actor, musician, performer and poet, publishing my content under [D
 
 Proficiencies: Typescript, React, Node.js, Next.js, Heroku, Django, Docker
 
-Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust <i class="fab fa-rust"></i>
+Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust
 
 Give me a shout!
 
