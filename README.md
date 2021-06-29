@@ -18,9 +18,14 @@ Proficiencies:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>](https://id.heroku.com/login)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.linux.org/pages/download/)
 
-Typescript, React, Node.js, Next.js, Heroku, Django, Docker
+Interests:
 
-Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>](https://cloud.google.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>](https://pytorch.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>](https://stripe.com/en-br)
+
+
 
 Give me a shout!
 
