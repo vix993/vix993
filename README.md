@@ -6,7 +6,19 @@ I like to define myself as a creative person, with a very deep connection to the
 
 I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://desvious-order.vercel.app/).
 
-Proficiencies: Typescript, React, Node.js, Next.js, Heroku, Django, Docker
+Proficiencies: 
+
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>](https://reactjs.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>](https://www.typescriptlang.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>](https://www.python.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://www.djangoproject.com/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>](https://id.heroku.com/login)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.linux.org/pages/download/)
+
+Typescript, React, Node.js, Next.js, Heroku, Django, Docker
 
 Interests: Rust, AWS, Actix, Football, Rust, Basketball, Music and Rust
 
