@@ -30,9 +30,10 @@ Interests:
 Give me a shout!
 
 [![Blog Badge](https://img.shields.io/badge/Blog-vicbirth.com-black)](https://desvious-order.vercel.app/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)](https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-nascimento-dev/)](https://www.linkedin.com/in/victor-nascimento-dev/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vic_birth/)](https://www.instagram.com/vic_birth/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>](https://www.linkedin.com/in/victor-nascimento-dev/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></code>](https://www.instagram.com/vic_birth/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>](https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)
+
 
 | [![vic's's GitHub stats](https://github-readme-stats.vercel.app/api?username=vix993&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/vix993?tab=repositories) | [![vic's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vix993&layout=compact&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) |
 |:-:|:-:|
