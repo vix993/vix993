@@ -14,12 +14,12 @@ Proficiencies:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://www.djangoproject.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>](https://id.heroku.com/login)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.linux.org/pages/download/)
 
 Interests:
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>](https://www.salesforce.com/br/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>](https://cloud.google.com/)
