@@ -30,9 +30,9 @@ Interests:
 
 Give me a shout!
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>](https://www.linkedin.com/in/victor-nascimento-dev/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></code>](https://www.instagram.com/vic_birth/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>](https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)
+[<code><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></code>](https://www.linkedin.com/in/victor-nascimento-dev/)
+[<code><img height="25" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></code>](https://www.instagram.com/vic_birth/)
+[<code><img height="25" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>](https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)
 
 [![Blog Badge](https://img.shields.io/badge/Blog-vicbirth.com-black)](https://vicbirth.com/blog)
 
