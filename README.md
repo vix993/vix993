@@ -21,7 +21,6 @@ Interests:
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>](https://www.salesforce.com/br/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>](https://cloud.google.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>](https://pytorch.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>](https://stripe.com/en-br)
