@@ -33,7 +33,7 @@ Give me a shout!
 [<code><img height="25" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></code>](https://www.instagram.com/vic_birth/)
 [<code><img height="25" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></code>](https://www.youtube.com/channel/UCXY1UV15VsWe29G87Pv8dMQ)
 
-[![Blog Badge](https://img.shields.io/badge/Blog-vicbirth.com-black)](https://vicbirth.com/blog)
+[![Blog Badge](https://img.shields.io/badge/Blog-vicbirth.com-black)](https://vic-nasc.vercel.app/blog)
 
 
 | [![vic's's GitHub stats](https://github-readme-stats.vercel.app/api?username=vix993&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/vix993?tab=repositories) | [![vic's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vix993&layout=compact&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) |
