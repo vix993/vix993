@@ -4,7 +4,7 @@ My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am a S
 
 I like to define myself as a creative person, with a connection to the arts and I am motivated to provide solutions for creators.
 
-I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://desvious-order.vercel.app/).
+I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://open.spotify.com/artist/03Ka7Eewewpe6Kw5lRmXbv).
 
 Proficiencies: 
 
