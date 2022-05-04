@@ -10,6 +10,8 @@ Proficiencies:
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>](https://reactjs.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>](https://www.typescriptlang.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>](https://go.dev/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>](https://www.python.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://www.djangoproject.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
@@ -17,9 +19,9 @@ Proficiencies:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>](https://id.heroku.com/login)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.linux.org/pages/download/)
 
+
 Interests:
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://www.rust-lang.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>](https://cloud.google.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>](https://pytorch.org/)
