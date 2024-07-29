@@ -1,8 +1,8 @@
 ### Hello Universe!
 
-My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am a Software Engineer, honing my skills as a student at [Ecole 42 Sao Paulo](https://www.42sp.org.br/).
+My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am a Full Stack Software Engineer with four years of experience developing SaaS products in start up environments.
 
-I like to define myself as a creative person, with a connection to the arts and I am motivated to provide solutions for creators.
+I like to define myself as a creative person, with a connection to the arts and I am motivated to provide robust software solutions.
 
 I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://open.spotify.com/artist/03Ka7Eewewpe6Kw5lRmXbv).
 
