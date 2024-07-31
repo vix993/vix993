@@ -37,6 +37,9 @@ Give me a shout!
 
 [![Blog Badge](https://img.shields.io/badge/Blog-vicbirth.com-black)](https://vic-nasc.vercel.app/blog)
 
+### My achievments 🏆
+
+![Achievements](https://github.com/pliniopereira/pliniopereira/blob/main/metrics.plugin.achievements.svg)
 
 | [![vic's's GitHub stats](https://github-readme-stats.vercel.app/api?username=vix993&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/vix993?tab=repositories) | [![vic's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vix993&layout=compact&hide_border=true&theme=dark)](https://github.com/vix993?tab=repositories) |
 |:-:|:-:|
