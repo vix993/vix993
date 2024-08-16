@@ -1,8 +1,8 @@
 ### Hello Universe!
 
-My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am a Full Stack Software Engineer with four years of experience developing SaaS products in start up environments.
+My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am an experienced Full Stack Software Engineer, developing SaaS products in start up environments.
 
-I like to define myself as a creative person, with a connection to the arts and I am motivated to provide robust software solutions.
+I like to define myself as a creative person and I am motivated to provide robust software solutions.
 
 I am also an actor, musician, performer and poet, publishing my content under [Desvious Order](https://open.spotify.com/artist/03Ka7Eewewpe6Kw5lRmXbv).
 
@@ -18,11 +18,11 @@ Proficiencies:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>](https://id.heroku.com/login)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>](https://www.linux.org/pages/download/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 
 
 Interests:
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>](https://aws.amazon.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>](https://cloud.google.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>](https://pytorch.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>](https://stripe.com/en-br)
