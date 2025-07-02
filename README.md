@@ -4,7 +4,7 @@ My name is Victor, I'm Brazilian and I lived in the UK most of my life. I am an 
 
 I like to define myself as a creative person and I am motivated to provide robust software solutions.
 
-I am also an musician, publishing my content under [Desvious Order](https://open.spotify.com/artist/03Ka7Eewewpe6Kw5lRmXbv).
+I am also a musician, publishing my content under [Desvious Order](https://open.spotify.com/artist/03Ka7Eewewpe6Kw5lRmXbv).
 
 Proficiencies: 
 
